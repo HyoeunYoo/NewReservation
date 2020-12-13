@@ -1,0 +1,21 @@
+/* s custom of bootstrap */
+
+.carousel-control {
+	color: #ddd;
+}
+.carousel-control.left, .carousel-control.right {
+	background-image: none;
+}
+.carousel-control:hover,
+.carousel-control:focus {
+	color: #ff2424;
+}
+
+.carousel-indicators li {
+	border: 1px solid #ddd;
+}
+.carousel-indicators .active {
+	background-color: #ddd;
+}
+
+/* e custiom of bootstrap */
