@@ -25,8 +25,8 @@
 
 * 시스템 구성도
 
-![structure](https://user-images.githubusercontent.com/62014520/102007277-f7e8f800-3d6a-11eb-9fc4-7f5863e840fc.png)
-![structure2](https://user-images.githubusercontent.com/62014520/102007278-f8818e80-3d6a-11eb-9784-e01e6f059839.png)
+![flow1](https://user-images.githubusercontent.com/62014520/102007692-92970600-3d6e-11eb-974a-c9dceaf36f8c.png)
+![flow2](https://user-images.githubusercontent.com/62014520/102007693-93c83300-3d6e-11eb-9cd3-233eb284b015.png)
 
 * 데이터베이스
 
