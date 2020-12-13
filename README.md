@@ -41,7 +41,7 @@
 ![main1](https://user-images.githubusercontent.com/62014520/102007461-a2154f80-3d6c-11eb-9baa-ab5f52df6afe.png)
 ![main2](https://user-images.githubusercontent.com/62014520/102007462-a5a8d680-3d6c-11eb-89f3-471e11fb16b1.png)
 
-– 로그인한 사용자가 어떤 회원인지에 따라 옵션바의 메뉴가 달라집니다.
+– 로그인한 사용자가 어떤 회원(고객/사업자)인지에 따라 옵션바의 메뉴가 달라집니다.
 
 – 내비게이션에 미리 완성되어 있는 검색어로 빠르게 검색해 볼 수 있습니다.
 
